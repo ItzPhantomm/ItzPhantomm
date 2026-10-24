@@ -1,56 +1,72 @@
-<div align="center">
-
-# ⚡ Phantom
-### **Staff Systems Engineer & Applied Intelligence Architect**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+High-Assurance+Temporal+Engines+%26+OSINT;Creator+of+HistoryFather+%7C+GitForge+%7C+Wander;Distributed+Systems+%E2%80%A2+Graph+Algorithms+%E2%80%A2+Tooling;Evidence-Driven+Architectures+%E2%80%A2+Rust+%E2%80%A2+Go+%E2%80%A2+Python)](https://git.io/typing-svg)
+<p align="center">
+  <img src="assets/banner.svg" alt="PHANTOM // SYSTEMS &amp; INTELLIGENCE ARCHITECT" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/ItzPhantomm?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Public_Engineering-09090b?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=18181b" alt="Public Repos" />
-  </a>
   <a href="https://github.com/ItzPhantomm/historyfather">
-    <img src="https://img.shields.io/badge/Flagship-HistoryFather_v1.0-09090b?style=for-the-badge&logo=databricks&logoColor=34d399&labelColor=18181b" alt="HistoryFather" />
+    <img src="https://img.shields.io/badge/Flagship-HistoryFather_v1.0-08090d?style=for-the-badge&logo=databricks&logoColor=38bdf8&labelColor=121622" alt="HistoryFather" />
   </a>
   <a href="https://github.com/ItzPhantomm/gitforge">
-    <img src="https://img.shields.io/badge/Core-GitForge-09090b?style=for-the-badge&logo=git&logoColor=f43f5e&labelColor=18181b" alt="GitForge" />
+    <img src="https://img.shields.io/badge/Workstation-GitForge-08090d?style=for-the-badge&logo=git&logoColor=f43f5e&labelColor=121622" alt="GitForge" />
   </a>
-  <a href="https://x.com/phantom_dev">
-    <img src="https://img.shields.io/badge/X-@phantom__dev-09090b?style=for-the-badge&logo=x&logoColor=e4e4e7&labelColor=18181b" alt="X Profile" />
+  <a href="https://github.com/ItzPhantomm/wander">
+    <img src="https://img.shields.io/badge/Retrieval-Wander_MCP-08090d?style=for-the-badge&logo=cloudflare&logoColor=f59e0b&labelColor=121622" alt="Wander" />
+  </a>
+  <a href="https://github.com/ItzPhantomm?tab=repositories">
+    <img src="https://img.shields.io/badge/Registry-Public_Systems-08090d?style=for-the-badge&logo=github&logoColor=34d399&labelColor=121622" alt="Public Systems" />
   </a>
 </p>
+
+---
+
+### 🏛️ Architecture & Philosophy
+
+```yaml
+identity:
+  alias: "Phantom"
+  title: "Principal Systems Engineer & Intelligence Architect"
+  focus_areas:
+    - "Temporal Search & Forensic Reconstruction (4-Timestamp Coordinate Systems)"
+    - "Topological Graph Analysis & Multi-Hop Attribution Chains"
+    - "Locality-Sensitive Fingerprinting (64-bit SimHash, Anti-Circularity Detection)"
+    - "High-Performance Workstations, Terminal Tooling & Mechanical Sympathy"
+  operating_principles:
+    - "Deterministic state machines over speculative probabilistic inferences"
+    - "Traceable provenance: every claim, edge, and attribution bound to verbatim evidence"
+    - "Zero-overhead infrastructure: maximum performance per cycle"
+```
+
+---
+
+### 🌐 Live Topology & Temporal Intelligence Graph
+
+> **Temporal Graph Projection:** Dynamic multi-directed topological visualization of threat actor campaigns, infrastructure attribution, and historical fog-of-war tracking across a multi-year timeline axis.
+
+<p align="center">
+  <img src="assets/temporal-graph.svg" alt="Interactive Temporal Intelligence Graph &amp; Timeline Scrubber" width="100%" />
+</p>
+
+<div align="center">
+
+| Edge Vector | Semantic Flow | Epistemic Verification |
+|:---:|:---:|:---:|
+| `TARGETS` | Actor $\rightarrow$ Infrastructure / Victim | Primary forensic telemetry + verified incident reports |
+| `DEPLOYS` | Actor $\rightarrow$ Malware / C2 Cluster | Reverse-engineered binaries & cryptographic hashes |
+| `ATTRIBUTED_TO` | Cluster $\rightarrow$ Nation-State Entity | Multi-agency intelligence declassification & indictments |
+| `EXPLOITS` | Malware $\rightarrow$ Zero-Day / CVE Protocol | Static binary analysis & public disclosure advisories |
 
 </div>
 
 ---
 
-### 🏛️ Executive Profile
-
-```yaml
-identity:
-  handle: "Phantom"
-  role: "Principal Systems Engineer & Intelligence Architect"
-  focus_domains:
-    - "Temporal Search & Forensic Reconstruction (4-Timestamp Models)"
-    - "Graph Topology, Network Analysis & Degree Centrality"
-    - "Locality Sensitive Fingerprinting (SimHash, MinHash, Anti-Circularity)"
-    - "High-Performance Developer Workstations & Terminal Tooling"
-  principles:
-    - "Deterministic over speculative"
-    - "Evidence over assertion"
-    - "Zero unnecessary dependencies; maximum mechanical sympathy"
-```
-
----
-
-### 🚀 Flagship Systems & Architectures
+### ⚡ Flagship Systems & Architectures
 
 <table>
   <thead>
     <tr>
-      <th width="30%">System</th>
-      <th width="45%">Architectural Breakthrough</th>
-      <th width="25%">Tech Stack</th>
+      <th width="28%">System</th>
+      <th width="48%">Core Engineering Breakthrough</th>
+      <th width="24%">Stack</th>
     </tr>
   </thead>
   <tbody>
@@ -63,7 +79,7 @@ identity:
         <sub>Temporal Intelligence Engine</sub>
       </td>
       <td>
-        Production-grade temporal search engine for forensic reconstruction. Features strict 4-timestamp coordinates ($T_{pub}$, $T_{event}$, $T_{obs}$, $T_{ingest}$), 64-bit SimHash wire-syndication detection, deterministic entity resolution, snapshot diff comparison, and traceable evidence provenance down to verbatim passages.
+        High-assurance temporal search engine for forensic reconstruction. Features strict 4-timestamp coordinates ($T_{pub}$, $T_{event}$, $T_{obs}$, $T_{ingest}$), 64-bit SimHash wire-syndication detection, deterministic entity resolution, snapshot diff comparison, and traceable evidence provenance down to verbatim passages.
       </td>
       <td>
         <code>Python 3.14</code><br/>
@@ -82,7 +98,7 @@ identity:
         <sub>High-Craft Git Workstation</sub>
       </td>
       <td>
-        High-performance, elegant Git client engineered for both terminal and browser runtimes. Instant branch diffing, visual conflict triage, and seamless commit workflows.
+        High-performance, elegant Git client engineered for terminal and browser runtimes. Instant branch diffing, visual conflict triage, and seamless commit workflows with zero UI lag.
       </td>
       <td>
         <code>Go</code><br/>
@@ -100,11 +116,11 @@ identity:
         <sub>Contextual Research Engine</sub>
       </td>
       <td>
-        Fast, autonomous semantic search & deep exploration toolkit designed for agentic tool use, multi-source retrieval, and verified citation indexing.
+        Fast, autonomous deep retrieval engine designed for agentic tool use, multi-source exploration, and verified citation indexing across public research corpora.
       </td>
       <td>
         <code>TypeScript</code><br/>
-        <code>MCP Server</code><br/>
+        <code>MCP Protocol</code><br/>
         <code>Async Fetch</code><br/>
         <code>Vector Search</code>
       </td>
@@ -148,11 +164,11 @@ identity:
 
 ---
 
-### 🛠️ Core Engineering Arsenal
+### 🛠️ Systems & Technologies Matrix
 
 <div align="center">
 
-| Domain | Weaponry & Standards |
+| Layer | Capabilities & Standards |
 |:---|:---|
 | **Core Systems & Languages** | `Go` • `Rust` • `Python 3.14+` • `TypeScript` • `C/C++` • `SQL (SQLite/PostgreSQL)` |
 | **Intelligence & Graphing** | `NetworkX` • `SimHash / MinHash (LSH)` • `SQLite FTS5 Full-Text` • `Jaro-Winkler Metric` • `OSINT Pipelines` |
@@ -164,31 +180,27 @@ identity:
 
 ---
 
-### 📊 Engineering Metrics & Activity
+### 📊 Real-Time Telemetry & Activity
 
 <div align="center">
   <a href="https://github.com/ItzPhantomm">
-    <img src="https://github-readme-stats.vercel.app/api?username=ItzPhantomm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=121215&title_color=38bdf8&icon_color=34d399&text_color=a1a1aa" height="165" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzPhantomm&layout=compact&theme=tokyonight&hide_border=true&bg_color=121215&title_color=38bdf8&text_color=a1a1aa" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ItzPhantomm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08090d&title_color=38bdf8&icon_color=34d399&text_color=94a3b8" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzPhantomm&layout=compact&theme=tokyonight&hide_border=true&bg_color=08090d&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzPhantomm&theme=tokyonight&hide_border=true&background=121215&stroke=27272a&ring=38bdf8&fire=f43f5e&currStreakLabel=38bdf8" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzPhantomm&theme=tokyonight&hide_border=true&background=08090d&stroke=1f273b&ring=38bdf8&fire=f43f5e&currStreakLabel=38bdf8" alt="Streak Stats" />
 </div>
 
 ---
 
-### 🧭 Philosophy
-
-> *"Search history as evidence, not just a list of results. Software should make uncertainty visible, preserve contradictory claims instead of overwriting them, and deliver mathematical certainty down to the underlying provenance."*
-
 <div align="center">
 
 ```
-[ 0x70 0x68 0x61 0x6E 0x74 0x6F 0x6D ] — Architecting high-assurance computing systems.
+[ 0x70 0x68 0x61 0x6E 0x74 0x6F 0x6D ] — Deterministic, High-Assurance Computing Architectures.
 ```
 
 </div>
